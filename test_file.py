@@ -7,3 +7,4 @@ This is a simple .py file for my own repo
 """
 
 print("Hello World!")
+print("This is the first commit")
